@@ -14,8 +14,8 @@ a1.insert(1,30) #Insert new value
 print(a1)
 a1[3]= 50 #Replacing
 print(a1)
-a1.pop()
+a1.pop() #Delete the last record of the index
 print(a1)
-a1.pop(1)
+a1.pop(1) #Delete the record from index number
 print(a1)
 
