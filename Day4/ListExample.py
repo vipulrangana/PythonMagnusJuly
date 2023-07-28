@@ -8,7 +8,7 @@ print(a1[:5])
 
 a1.append(120)
 print(a1)
-a1.remove(30)
+a1.remove(30) #remove a record by value
 print(a1)
 a1.insert(1,30) #Insert new value
 print(a1)
